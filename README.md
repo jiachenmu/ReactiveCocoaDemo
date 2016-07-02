@@ -5,9 +5,6 @@ ManoBoo(ReactiveCocoa使用浅析)中的Demo
 
 
 ---
-##**目录：**
-
-[TOC]
 
 ##Reactive Cocoa浅析
 
