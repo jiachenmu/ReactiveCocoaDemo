@@ -1,5 +1,5 @@
 # ReactiveCocoaDemo
-ManoBoo(ReactiveCocoa使用浅析)中的Demo
+ManoBoo([ReactiveCocoa使用浅析](http://www.jianshu.com/p/25922584bc43))中的Demo
 
 # iOS Reactive Cocoa使用浅析
 
